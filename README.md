@@ -14,11 +14,10 @@
 ***
 
 ### :technologist::man_student: About Me :
-  :computer:.
-- :student: I’m studing Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
+- :mortar_board: I’m studing Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
 
 - :computer: I’m working as a Full-stack Developer at Westinghouse Electric Company in the nuclear sector :zap:
 
 - :gem: Free time spending on DIY :hammer: and developing technical skills :desktop_computer:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-%C5%BCelasko-44b755213/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wojciech-zelasko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-%C5%BCelasko-44b755213/)
