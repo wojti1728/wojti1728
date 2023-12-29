@@ -8,5 +8,5 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/2z73e5pARxR03U7CB7/giphy.gif" width="600" height="300"/>
 </div>
