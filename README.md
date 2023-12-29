@@ -20,4 +20,4 @@
 
 - :gem: Free time spending on DIY :hammer: and developing technical skills :desktop_computer:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wojciech-zelasko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-%C5%BCelasko-44b755213/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-%C5%BCelasko-44b755213/)
