@@ -10,7 +10,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/2z73e5pARxR03U7CB7/giphy.gif" width="400" height="300"/>
 </div>
----
+
+***
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
