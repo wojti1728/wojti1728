@@ -16,7 +16,7 @@
 ### :technologist::man_student: About Me :
 - :mortar_board: I’m studying Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
 
-- :computer: I’m working as a Full-stack Developer at Westinghouse Electric Company in the nuclear sector :zap:
+- :computer: I’m working as a Software Developer at Westinghouse Electric Company in the nuclear sector :zap:
 
 - :gem: Free time spending on DIY :hammer: and developing technical skills :desktop_computer:
 
