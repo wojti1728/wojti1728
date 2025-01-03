@@ -14,7 +14,7 @@
 ***
 
 ### :technologist::man_student: About Me :
-- :mortar_board: I’m studying Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
+- :mortar_board: I graduated in Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
 
 - :computer: I’m working as a Software Developer at Westinghouse Electric Company in the nuclear sector :zap:
 
