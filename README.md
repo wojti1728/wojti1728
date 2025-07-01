@@ -16,7 +16,7 @@
 ### :technologist::man_student: About Me :
 - :mortar_board: I graduated in Data Science (Engineering and Data Analysis) at AGH University of Science and Technology.
 
-  - :computer: I’m working as a Data Egnineer at Epam Systems :zap:
+- :computer: I’m working as a Data Egnineer at Epam Systems :zap:
 
 - :gem: Free time spending on DIY :hammer: and developing technical skills :desktop_computer:
 
