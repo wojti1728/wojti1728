@@ -31,6 +31,7 @@
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/databricks-auto.svg" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/dbtlabs-auto.svg" title="Dbt" alt="Dbt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" title="SciKitLearn" alt="SciKitLearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
