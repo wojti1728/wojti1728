@@ -51,4 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/subversion/subversion-original.svg" title="subversion" alt="subversion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/kubernetes.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
 </div>
